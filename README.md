@@ -1,0 +1,9 @@
+- [ ] Presents a blank canvas
+- [ ] Sets the color of that canvas using the keyboard
+- [ ] Offers several brushes switchable via keystroke
+- [ ] Changes fill color via the keyboard
+- [ ] Changes stroke color via the keyboard
+- [ ] Changes brush size via the keyboard
+- [ ] Paints with brushes via the mouse
+- [ ] Erases with brushes via the keyboard + mouse
+- [ ] Clears the canvas via the keyboard

@@ -10,6 +10,7 @@
 
 - Issues cant run rp5 watch on current .rb file
 
+- [github guide](https://github.com/fdel15/process_artist)
 - [ruby-processing github](https://github.com/jashkenas/ruby-processing)
 - [ruby-processing documentation](http://www.rubydoc.info/gems/ruby-processing/2.7.1)
 
